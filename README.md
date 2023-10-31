@@ -21,7 +21,7 @@ Many software applications and websites require icons in the `.ico` format, espe
 ### Installation
 
 1. **Using the Installer**:
-    - Download the 'PNG to ICO Setup.exe' from the repository.
+    - Download the 'PNG to ICO Setup.exe' from the website.
     - Run the installer to set up the program on your system.
     - Once installed, open the PNG to ICO Converter from your start menu or desktop.
 
@@ -35,7 +35,7 @@ Many software applications and websites require icons in the `.ico` format, espe
 
 ## Purchasing the EXE
 
-While this program is not yet released, there will be a fair set price and webpage built for it where users can purchase the program.
+Due to this program stil being under development, it is not yet released. There will be fair pricing and a webpage built for it where users can purchase a license to use the program.
 
 ## License
 
